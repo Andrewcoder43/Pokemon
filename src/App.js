@@ -24,7 +24,7 @@ function App() {
       <h1 style={{ textAlign: 'center' }}>SolarPunk Pokemon</h1>
       <PokemonList pokemons={pokemons} />
     </div>
-  );
+  ); 
   
   
 }
